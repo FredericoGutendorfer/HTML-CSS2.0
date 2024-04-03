@@ -1,0 +1,54 @@
+
+@CHARSET'UTF-8';
+
+body { background-image: linear-gradient(to left, blue, red); }
+
+.link_underline{
+text-decoration:none;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: auto;
+}
+
+h1 {
+backgrand-color: gray ;
+color: White ;
+font-size: 40pt;
+fot-family: Berlin Sans FB Demi;
+text-align: center;
+text-decoration: none;
+border-bottom: none;
+outline: none;
+  
+}
+
+
+
+p  {
+backgrand-color: gray ;
+color: White ;
+font-size: 28pt;
+fot-family: Cooper Black;
+text-align: center;
+}
+
+
+h2 {
+backgrand-color: white ;
+color: White ;
+font-size: 35pt;
+fot-family: Berlin Sans FB Demi;
+text-align: center;
+text-decoration: none;
+border-bottom: none;
+outline: none;
+}
+
+a { 
+text-decoration: none;
+border-bottom: none;
+outline: none;
+}
